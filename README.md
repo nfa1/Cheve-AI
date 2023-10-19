@@ -44,7 +44,7 @@ Guess what? We're currently brewing up an epic social web app that fuses financi
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Our code network is a lively fiesta of open source goodness, powered and inspired by the amazing [Robots Building Education](https://robotsbuildingeducation.com/). Please visit and sign up and support the life-changing work that Robots Building Education is doing to empower the Latinx community.  🤖📚 We openly embrace the potential of AI to drive innovation and community impact. Collaborate and contribute to our AI-enhanced projects through pull requests.
+Our code network is a lively fiesta of open source goodness, powered and inspired by the amazing [Robots Building Education](https://robotsbuildingeducation.com/) Please visit and sign up and support the life-changing work that Robots Building Education is doing to empower the Latinx community.  🤖📚 We openly embrace the potential of AI to drive innovation and community impact. Collaborate and contribute to our AI-enhanced projects through pull requests.
 
 ### Cheve-AI x Crunchbase: Gen Z Angels 🚀
 
