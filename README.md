@@ -1,6 +1,5 @@
 # [Cheve-AI](https://cheve-ai-71b54.web.app/)
 
-### Welcome to Cheve-AI: Invest in Your Community 🌮🎉
 ### Welcome to Cheve-AI: Embracing AI, Social Impact, and Empowerment 🌮🎉
 
 ¡Hola and welcome to Cheve-AI, your cozy hub for fun, social, microscale angel investing! 🚀 At Cheve-AI, we're all about harnessing the power of community investment to build connections between businesses and the vibrant Latinx communities across North America. Our mission is simple: Grow, Advance, and Make a positive impact together! 💖
