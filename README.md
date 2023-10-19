@@ -1,7 +1,7 @@
 # Cheve-AI
 
 ### Welcome to Cheve-AI: Invest in Your Community 🌮🎉
-### Welcome to Cheve AI: Embracing AI, Social Impact, and Empowerment 🌮🎉
+### Welcome to Cheve-AI: Embracing AI, Social Impact, and Empowerment 🌮🎉
 
 ¡Hola and welcome to Cheve-AI, your cozy hub for fun, social, microscale angel investing! 🚀 At Cheve-AI, we're all about harnessing the power of community investment to build connections between businesses and the vibrant Latinx communities across North America. Our mission is simple: Grow, Advance, and Make a positive impact together! 💖
 ¡Hola and welcome to Cheve-AI, your cozy hub for fun, social, microscale angel investing with a high-tech twist! 🚀 At Cheve-AI, we're all about harnessing the power of community investment to build connections between businesses and the vibrant Latinx communities across North America. Our mission is simple: Grow, Advance, and Make a positive impact together! 💖
@@ -33,19 +33,18 @@ Guess what? We're currently brewing up an epic social web app that fuses financi
    - Get the lowdown on the AI-driven impact of your contributions.
    - Share these reports with your customers and community through seamless social media integration.
 
-5. **Chev Bueno Badge**
+5. **Cheve-AI Bueno Badge**
 
    - Snag a Cheve-AI Bueno Badge to spice up your storefront and social media presence.
    - Flaunt your commitment to community growth like a true Cheve-AI estrella! 🌟
 
-### Code Fiesta: React + Vite 🔥
+### Cheve-AI: React + Vite 🔥
 
 @ -13,5 +40,18 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Our code network is a lively fiesta of open source goodness, powered and inspired by the amazing Robots Building Education. 🤖📚 We welcome collaboration and project contributions from the community to keep the party going. Feel free to fork, dance with the code, and send us your rhythm through pull requests.
-Our code network is a lively fiesta of open source goodness, powered and inspired by the amazing Robots Building Education. 🤖📚 We openly embrace the potential of AI to drive innovation and community impact. Collaborate and contribute to our AI-enhanced projects through pull requests.
+Our code network is a lively fiesta of open source goodness, powered and inspired by the amazing [Robots Building Education](https://robotsbuildingeducation.com/). Please visit and sign up and support the life-changing work that Robots Building Education is doing to empower the Latinx community.  🤖📚 We openly embrace the potential of AI to drive innovation and community impact. Collaborate and contribute to our AI-enhanced projects through pull requests.
 
 ### Cheve-AI x Crunchbase: Gen Z Angels 🚀
 
