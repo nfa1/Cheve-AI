@@ -1,6 +1,5 @@
 # Cheve-AI
 
-@ -1,10 +1,37 @@
 ### Welcome to Cheve-AI: Invest in Your Community 🌮🎉
 ### Welcome to Cheve AI: Embracing AI, Social Impact, and Empowerment 🌮🎉
 
